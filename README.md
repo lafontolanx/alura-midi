@@ -13,3 +13,7 @@
 
 ## Certificado:
 <a href="https://cursos.alura.com.br/certificate/fd3f7df6-2868-4c50-8732-3a6593d18cfd">Link de acesso</a>
+
+## Página do Alura Midi:
+
+<img src="./images/pagina-alura-midi.PNG">
